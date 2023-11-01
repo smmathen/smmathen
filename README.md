@@ -7,6 +7,11 @@
 - 📚 I'm always looking to learn new things or code meaningful applications. I'm excited about the unlimited possibilities of what I can build.
 
 You can check out my personal website [here](https://shawnmathen.me/) to see some of my projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shawn-mathen) to chat about all things software development (or if you want to talk about anything else).
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=smmathen&theme=radical&border_radius=8.3&mode=weekly)](https://git.io/streak-stats)
+
 <!---
 smmathen/smmathen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
